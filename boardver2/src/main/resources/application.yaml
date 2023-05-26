@@ -14,7 +14,7 @@ spring:
 
 
 mybatis:
-  type-aliases-package: com.green.boardver2
+  type-aliases-package: com.green.boardver2.model
   mapper-locations: mapper/**/*.xml
 
 #swagger
