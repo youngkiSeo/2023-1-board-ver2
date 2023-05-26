@@ -1,4 +1,4 @@
-package com.green.boardver2.kdy;
+package com.green.boardver2.kdy.Board;
 
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
