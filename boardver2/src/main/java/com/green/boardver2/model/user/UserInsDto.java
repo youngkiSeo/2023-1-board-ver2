@@ -12,7 +12,4 @@ public class UserInsDto {
     private String nm;
     private char gender;
     private String addr;
-    private String main_pic;
-    private String createdAt;
-    private String updatedAt;
 }
